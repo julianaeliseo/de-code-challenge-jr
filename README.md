@@ -30,15 +30,13 @@ Based on this data, we want you to create a solution that shows the following ca
 1. The number of Open Positions per Category Name;
 2. The last three Jobs that have expired.
 
-It is important to follow the instructions below:
-- It would be great if you load this data to any Database Systems of your choice;
-- It would be great if you use Python in some part of your solution;
-
-
 Make sure:
 - Your code should allow further executions. That is, when a new file arrives (with the same columns) the code must runs successfully;
 - Your code should assure the quality of the data. 
 
+It is not mandatory, but it is important to observe the recommendations below.
+- It would be great if you load this data to any Database Systems of your choice;
+- It would be great if you use Python in some part of your solution;
 
 ## Prerequisites
 
@@ -50,8 +48,9 @@ Your test must have a README with the necessary steps to:
 
 ### Technology
 
-Python. Scala can be an alternative.
-
+ - Python. Scala can be an alternative.
+ - SQL
+ - As a DB, we recommend PostgreSQL, MySQL or MongoDB, but you can choose any other.
 ### We like:
 
 - Workload Management;
